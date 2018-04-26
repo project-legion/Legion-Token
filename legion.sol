@@ -21,7 +21,7 @@ interface tokenRecipient { function receiveApproval(address _from, uint256 _valu
 
 contract LegionERC20 {
     string public constant _myTokeName = 'Legion';
-    string public constant _mySymbol = 'LEG';
+    string public constant _mySymbol = 'LGN';
     uint public constant _myinitialSupply = 300000000;
     uint8 public constant _myDecimal = 18;
     
